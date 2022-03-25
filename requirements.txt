@@ -1,4 +1,4 @@
 matplotlib==3.5.1
 networkx==2.6.3
 streamlit==0.83.0
-pyvis==0.1.8.2
+simpful==2.5.1
