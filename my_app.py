@@ -1,5 +1,5 @@
-pip install networkx
 import streamlit as st
+import streamlit.components.v1 as components
 import time
 import pandas as pd
 import networkx as nx
