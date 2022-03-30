@@ -517,7 +517,7 @@ if side_rad == "Home":
     col1.write("4. Fuzzy logic model: This model calculates the (sustainable) effect on the surrounding environment")
     col3, col4 = st.columns([4, 4])
     col3.image("tue1.png")
-    col4.image("witteveenbos1.png")
+    col4.image("Witteveenbos1.png")
 
 if side_rad == "Prioritization model":
     blank, title_col, blank2 = st.columns([3, 5, 2])
